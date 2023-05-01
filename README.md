@@ -14,5 +14,5 @@ PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Da
 
 **Visualització 3: Hyperbolic tree**
 
-* Eaina emprada:
+* Eaina emprada: JavaScript InfoVis Toolkit (https://philogb.github.io/jit/)
 * Accés a la visualització: [Hypertree.html](Hypertree/Hypertree.html)
