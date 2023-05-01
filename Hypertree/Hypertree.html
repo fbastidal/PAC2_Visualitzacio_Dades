@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Hypertree - Tree Animation</title>
+
+<!-- CSS Files -->
+<link type="text/css" href="base.css" rel="stylesheet" />
+<link type="text/css" href="Hypertree.css" rel="stylesheet" />
+
+<!-- JIT Library File -->
+<script language="javascript" type="text/javascript" src="jit-yc.js"></script>
+
+<!-- Tree File -->
+<script language="javascript" type="text/javascript" src="Orchestra.js"></script>
+</head>
+
+<body onload="init();">
+<div id="container">
+
+<div id="left-container">
+
+
+
+        <div class="text">
+        <h4>
+Instruments d'una orquesta   
+        </h4> 
+
+            En l'arbre de la dreta es pot veure el nombre d'instruments de cada tipus que composen una orquestra segons la classe d'orquestra.<br /><br />
+            Clicant a un node l'arbre es mou per centrar-se a sobre el node.<br /><br />
+            Els fills del node seleccionat (el del centre) apareixen a la columna de la dreta.<br /><br />
+            PAC2 de l'assignarura Visualització de dades - Màster de Ciències de dades de la UOC <br /><br />
+            Francisco Bastida López
+            
+        </div>
+
+        <div id="id-list"></div>
+
+
+<div style="text-align:center;">Font de dades: <a href="https://github.com/rawgraphs/rawgraphs-app/blob/634852687157c037ec8e1558752d77834c538461/public/sample-datasets/Treemap%20-%20Orchestra.tsv">rawgrapth-app</a></div>
+</div>
+
+<div id="center-container">
+    <div id="infovis"></div>    
+</div>
+
+<div id="right-container">
+
+<div id="inner-details"></div>
+
+</div>
+
+<div id="log"></div>
+</div>
+</body>
+</html>
