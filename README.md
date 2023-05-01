@@ -15,4 +15,4 @@ PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Da
 **Visualització 3: Hyperbolic tree**
 
 * Eaina emprada:
-* Accés a la visualització: [Hypertree.htmp](Hypertree/Hypertree.html)
+* Accés a la visualització: [Hypertree.html](Hypertree/Hypertree.html)
