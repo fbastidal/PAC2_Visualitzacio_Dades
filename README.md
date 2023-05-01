@@ -10,9 +10,9 @@ PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Da
 **Visualització 2: Flow Map**
 
 * Eina emprada: 
-* Accés a la visualització: 
+* Accés a la visualització: [flowmap.mp4](flowmap.mp4)
 
 **Visualització 3: Hyperbolic tree**
 
 * Eaina emprada:
-* Accés a la visualització: 
+* Accés a la visualització: [Hypertree.htmp](Hypertree/Hypertree.html)
