@@ -12,7 +12,7 @@ PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Da
 
 * Eina emprada: 
 * Accés a la visualització: [flowmap.mp4](flowmap.mp4)
-* Dades font: [Dades de la intensitat del tràfic del Consell insular de Mallorca](https://web.conselldemallorca.cat/documents/774813/882786/mapa_2022_aforos11.jpg/6026c402-d8af-8f1f-bbd9-22a77bbdf85a?t=1682075740333)
+* Dades font: [Dades de la intensitat del tràfic del Consell insular de Mallorca](https://web.conselldemallorca.cat/documents/774813/882786/mapa_2022_aforos11.jpg/6026c402-d8af-8f1f-bbd9-22a77bbdf85a?t=1682075740333) (les dades s'han processades per visualitzar-les)
 
 **Visualització 3: Hyperbolic tree**
 
