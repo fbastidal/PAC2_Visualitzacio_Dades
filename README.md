@@ -1,6 +1,6 @@
 # PAC2_Visualitzacio_Dades
 
-* PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Dades de la UOB
+* PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Dades de la UOC
 * (C) Francisco Bastida López fbastidal@uoc.edu
 
 **Visualització 1: Stacked Bar Graphs**
@@ -13,7 +13,7 @@
 
 * Eina emprada: [ArcGIS](https://www.arcgis.com/index.html)
 * Accés a la visualització: [Què fan els palmesans en diumenge?](Flowmap.mp4)
-* Dades font: [Dades de la intensitat del tràfic del Consell insular de Mallorca](https://web.conselldemallorca.cat/documents/774813/882786/mapa_2022_aforos11.jpg/6026c402-d8af-8f1f-bbd9-22a77bbdf85a?t=1682075740333) (les dades s'han processades per visualitzar-les)
+* Dades font: [Dades de la intensitat del tràfic en 2022 del Consell insular de Mallorca](https://web.conselldemallorca.cat/documents/774813/882786/mapa_2022_aforos11.jpg/6026c402-d8af-8f1f-bbd9-22a77bbdf85a?t=1682075740333) (les dades s'han processades per visualitzar-les)
 
 **Visualització 3: Hyperbolic tree**
 
