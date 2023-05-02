@@ -1,8 +1,7 @@
 # PAC2_Visualitzacio_Dades
 
-PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Dades de la UOB
-
-(C) Francisco Bastida López fbastidal@uoc.edu
+* PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Dades de la UOB
+* (C) Francisco Bastida López fbastidal@uoc.edu
 
 **Visualització 1: Stacked Bar Graphs**
 
