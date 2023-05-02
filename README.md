@@ -5,13 +5,13 @@ PAC 2 de l'assignatura de Visualització de Dades del Màster de Ciències de Da
 **Visualització 1: Stacked Bar Graphs**
 
 * Eina emprada: Flourish
-* Accés a la visualització: https://flourish-user-preview.com/13551134/SCD3s8o7uvT5zQLo4mi5O8wNCsRFDLSOMvR8t3OsObbvGGGL1Tb7o8nml-uT-hdV/
+* Accés a la visualització: [Què estudien les dones?](https://flourish-user-preview.com/13551134/SCD3s8o7uvT5zQLo4mi5O8wNCsRFDLSOMvR8t3OsObbvGGGL1Tb7o8nml-uT-hdV/)
 * Dades font: [Estadística universitaria del SIIU](https://public.tableau.com/app/profile/equiposiiu/viz/Academica21_EEU/InfografiaEEU)
 
 **Visualització 2: Flow Map**
 
 * Eina emprada: ArcGIS
-* Accés a la visualització: [flowmap.mp4](flowmap.mp4)
+* Accés a la visualització: [Què fan els palmesans en diumenge?](flowmap.mp4)
 * Dades font: [Dades de la intensitat del tràfic del Consell insular de Mallorca](https://web.conselldemallorca.cat/documents/774813/882786/mapa_2022_aforos11.jpg/6026c402-d8af-8f1f-bbd9-22a77bbdf85a?t=1682075740333) (les dades s'han processades per visualitzar-les)
 
 **Visualització 3: Hyperbolic tree**
